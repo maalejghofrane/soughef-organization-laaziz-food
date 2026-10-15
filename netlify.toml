@@ -1,0 +1,8 @@
+[build]
+  command = ""
+  publish = "."
+
+[[redirects]]
+  from = "/index-la.html"
+  to = "/"
+  status = 301
